@@ -1,7 +1,8 @@
 # Café Sales Intelligence & Advanced Excel Diagnostic Analytics
+Source:Kaggle
 
 ## Project Overview
-This project delivers an end-to-end data engineering and diagnostic analytics solution built entirely inside **Microsoft Excel**. Working with an annual retail sales dataset covering **9,518 unique orders**, the project lifecycle handles data ingestion and extraction using Power Query (ETL), statistical optimization through the Excel Data Analysis Toolpak, and dynamic, executive-facing visual reporting.
+This project delivers an end-to-end data engineering and diagnostic analytics solution built entirely inside **Microsoft Excel**. Working with an annual cafe sales dataset covering **9,518 unique orders**, the project lifecycle handles data ingestion and extraction using Power Query (ETL), statistical optimization through the Excel Data Analysis Toolpak, and dynamic, executive-facing visual reporting.
 
 The primary objective is to isolate core revenue engines, evaluate demand volatility, and scientifically validate operational categories to maximize operational and margin efficiency.
 
@@ -9,9 +10,9 @@ The primary objective is to isolate core revenue engines, evaluate demand volati
 
 ## 1. Advanced Excel Technical Stack & Skills Demonstrated
 * **ETL & Data Engineering:** Power Query for data profiling, handling hidden formatting gaps, and merging categorical fields.
-* **Feature Engineering:** Advanced conditional nesting logic (`IF`, `IFS`, `VLOOKUP`, `XLOOKUP`) used to build time-intelligent dimensions (`Day_Type`).
+* **Feature Engineering:** Advanced conditional nesting logic (`IF`, `IFS`, `XLOOKUP`) used to build time-intelligent dimensions (`Day_Type`).
 * **Statistical Modeling:** Excel Data Analysis Toolpak implementation for parametric hypothesis testing (Single-Factor ANOVA and Two-Sample t-Tests assuming unequal variances).
-* **Dynamic Visualization:** Interactive Excel/Power BI dashboard design utilizing advanced slicer routing, dynamic pivot connections, and KPI card mapping.
+* **Dynamic Visualization:** Interactive Excel dashboard design utilizing advanced slicer routing, dynamic pivot connections, and KPI card mapping.
 
 ---
 
@@ -42,7 +43,7 @@ To translate data metrics into dynamic operational control, an interactive sales
   * *Temporal Filters:* Filtering by Month and Day of the Week
 
 ### Dashboard Preview
-![Café Sales Intelligence Dashboard](dashboard.png)
+![Café Sales Intelligence Dashboard](Excel_Cafe_Sales_Dashboard)
 
 ---
 
