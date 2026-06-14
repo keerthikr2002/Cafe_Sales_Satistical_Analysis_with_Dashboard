@@ -80,7 +80,7 @@ To translate cleaned data metrics into dynamic operational control, an interacti
   * *Temporal Filters:* Filtering by Month and Day of the Week
 
 ### Dashboard Preview
-![Café Sales Intelligence Dashboard](Excel_Cafe_Sales_Dashboard.png)
+![Café Sales Intelligence Dashboard](excel_cafe_sales_dashboard.png)
 
 ---
 
